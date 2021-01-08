@@ -1,0 +1,10 @@
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\bin\Debug\Estágio segunda.exe.config
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\bin\Debug\Estágio segunda.exe
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\bin\Debug\Estágio segunda.pdb
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\obj\Debug\Estágio segunda.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\obj\Debug\Estágio_segunda.FormPrincipal.resources
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\obj\Debug\Estágio_segunda.Properties.Resources.resources
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\obj\Debug\Estágio segunda.csproj.GenerateResource.cache
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\obj\Debug\Estágio segunda.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\obj\Debug\Estágio segunda.exe
+C:\Users\felip\OneDrive\Documents\Felippe Documentos\TI\Estágio\Estágio segunda\Estágio segunda\obj\Debug\Estágio segunda.pdb
